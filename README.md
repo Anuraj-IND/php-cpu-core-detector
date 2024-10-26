@@ -22,7 +22,7 @@ Currently supports **Linux** only, using the following utilities:
 ## Clone this repository(Installation):
    ```bash
 git clone https://github.com/your-repo/php-cpu-core-detection.git
-``
+      bash```
 
 ## Contributing
 Contributions are welcome! To contribute:
