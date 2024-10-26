@@ -31,6 +31,13 @@ Contributions are welcome! To contribute:
 2. Make your changes in a new branch.
 3. Submit a pull request with a detailed description of your changes.
 
+## Examples
+
+Check out these examples to see the CPU core detection in action:
+
+- [Asynchronous Example](examples/async.php)
+- [Synchronous example](examples/sync.php)
+
 ## License ##
 
 Copyright 2016 [Cees-Jan Kiewiet](http://wyrihaximus.net/)
