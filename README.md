@@ -21,7 +21,8 @@ Currently supports **Linux** only, using the following utilities:
 
 ## Clone this repository(Installation):
    ```bash
-   git clone https://github.com/your-repo/php-cpu-core-detection.git
+git clone https://github.com/your-repo/php-cpu-core-detection.git
+``
 
 ## Contributing
 Contributions are welcome! To contribute:
