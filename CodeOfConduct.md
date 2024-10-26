@@ -34,7 +34,7 @@ This Code of Conduct applies to **all project spaces**: GitHub, discussions, and
 
 ## 📢 Reporting Issues
 
-If you experience or witness any behavior that doesn’t meet our standards, please reach out! You can report issues at **[CONTACT EMAIL HERE]**. We’ll review each report with confidentiality and act promptly.
+If you experience or witness any behavior that doesn’t meet our standards, please reach out! You can report issues . We’ll review each report with confidentiality and act promptly.
 
 ## 🛠 Enforcement Process
 
